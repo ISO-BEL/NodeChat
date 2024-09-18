@@ -4,7 +4,7 @@
 
 Making a chat app with raylib, on the web;
 using a proccess to get c and its standard libraries to compile to webasm without emscripten.
-The server backend will implement http1.1 and be written in c aswell. 
+The server backend will implement http1.1 and will be written in c aswell. 
 For c to wasm, I am going to be using a process outlined by this 
 webpage.
 
